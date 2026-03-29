@@ -3,7 +3,7 @@
 > Created with ❤️ by **Usman**
 
 <p align="center">
-  <img src="https://i.ibb.co/LDNSdKmY/284625.png" alt="USMAN-x3r" width="800">
+  <img src="https://i.ibb.co/6P2T8D0Y/USMAN-x3r-Banner-Fixed.png" alt="USMAN-x3r-Calibrated-Banner">
 </p>
 
 <p align="center">

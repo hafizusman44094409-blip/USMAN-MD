@@ -1,21 +1,20 @@
 {
-  "name": "smd-mini",
+  "name": "usman-md",
   "version": "1.0.0",
-  "description": "SMD Mini WhatsApp Bot using Baileys and MongoDB",
+  "description": "USMAN-MD: A Fast, Lightweight and Powerful WhatsApp Bot customized by Usman.",
   "type": "commonJs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Team-Bandaheali",
+  "author": "Usman",
   "license": "MIT",
   "keywords": [
-    "smd",
-    "shaban",
-    "shabanmd",
-    "bandaheali",
-    "edith",
-    "team-bandaheali"
+    "usman",
+    "usman-md",
+    "whatsapp-bot",
+    "powerful-bot",
+    "md-bot"
   ],
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
@@ -26,3 +25,4 @@
     "team-bandaheali": "latest"
   }
 }
+

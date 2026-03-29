@@ -4,7 +4,7 @@ const db = smd.db;
 async function connectDb() {
   try {
     await db.connect();
-    console.log("smd-mini db connected");
+    console.log("USMAN-MD database connected");
   } catch (err) {
     console.error("Database connection failed:", err);
   }

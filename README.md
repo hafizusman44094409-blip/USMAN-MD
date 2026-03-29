@@ -3,7 +3,7 @@
 > Created with ❤️ by **Usman**
 
 <p align="center">
-  <img src="https://i.ibb.co/tTvtNMfV/USMAN-x3r.png" alt="USMAN-x3r" width="100%">
+  <img src="https://i.ibb.co/xr3k8Q4/284626.png" alt="USMAN-x3r-Banner" width="100%">
 </p>
 
 <p align="center">
@@ -33,11 +33,9 @@ It includes a plugin system, automation features, and a scalable bot architectur
 # 👑 Owner: Usman
 
 <p align="center">
-
 <a href="https://github.com/Usman-x3r">
 <img src="https://img.shields.io/badge/USMAN-OWNER-purple?style=for-the-badge&logo=github">
 </a>
-
 </p>
 
 ---
@@ -45,11 +43,9 @@ It includes a plugin system, automation features, and a scalable bot architectur
 # 🚀 Deployment
 
 <p align="center">
-
 <a href="https://app.koyeb.com/deploy?type=git&repository=Usman-x3r/USMAN-MD&branch=main&name=usman-md">
 <img src="https://img.shields.io/badge/DEPLOY-NOW-green?style=for-the-badge&logo=rocket">
 </a>
-
 </p>
 
 ---
